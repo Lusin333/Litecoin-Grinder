@@ -8,3 +8,4 @@ May the grind be long and plentiful.
 Here is Lusin's video tutorial on how to use the Litecoin Grinder. Enjoy all those legit Litecoins! https://youtu.be/4lyEszcP6rQ
 
 ![alt text](https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20Icon%20-%20Lusin.png)
+![alt text](https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20github%20preview.png)
