@@ -15,7 +15,7 @@ Within a few months, the Litecoin Grinder was completed!  Mining Litecoins is no
 
 ***
 
-May the Grind Be Long and Plentiful.
+***May the Grind Be Long and Plentiful.***
 ***
 
 ## Litecoin Grinder Video Tutorial
