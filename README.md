@@ -22,10 +22,14 @@ Within a few months, the Litecoin Grinder was completed!  Mining Litecoins is no
 [**_Lusin's Litecoin Grinder Video Tutorial_**](https://youtu.be/4lyEszcP6rQ)
 
 
-## Preview Image
-![alt text](https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20Icon%20-%20Lusin.png)
-![alt text](https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20github%20preview.png)
-
+## Litecoin Grinder Preview Images
+<div id="Preview Images">
+ 
+</a>
+<img src="https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20github%20preview.png" data-canonical-src="https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20github%20preview.png" width="480" />
+</a>
+<img src="https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20Icon%20-%20Lusin.png" data-canonical-src="https://raw.githubusercontent.com/Lusin333/Litecoin-Grinder/master/Litecoin%20Grinder%20Icon%20-%20Lusin.png" width="225" />
+</a>
 
 ## Follow Lusin333
 * 🎥 [Lusin's Youtube](https://www.Youtube.com/c/Lusin333?sub_confirmation=1)
